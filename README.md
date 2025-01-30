@@ -2,7 +2,7 @@
 🩷 Hi, I'm Daryl Ong, a graduate of BS Computer Engineering with a Specialization in Software Engineering.  
 🌼 Currently, I'm expanding my knowledge in programming languages, UI/UX design, and data analysis.  
 🎀 Fun fact: I enjoy self-reflection, playing the piano, and occasionally strumming the acoustic guitar.  
-🧸 If I weren’t in computer engineering, I’d explore careers involving medicine and science.
+🧸 If I weren’t in computer engineering, I’d explore careers involving arts, music, medicine and science.
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dorylla)  
