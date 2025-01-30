@@ -1,5 +1,5 @@
 ## 💫 About Me
-🩷 Hi, I'm Daryl Ong, a graduate of BS Computer Engineering with a Specialization in Software Engineering.
+🩷 Hi, I'm Daryl Ong, a graduate of BS Computer Engineering with a Specialization in Software Engineering.  
 🌼 Currently, I'm expanding my knowledge in programming languages, UI/UX design, and data analysis.  
 🎀 Fun fact: I enjoy self-reflection, playing the piano, and occasionally strumming the acoustic guitar.  
 🧸 If I weren’t in computer engineering, I’d explore careers involving medicine and science.
